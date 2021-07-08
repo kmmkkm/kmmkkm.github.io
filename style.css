@@ -1,0 +1,39 @@
+body{
+    background-color: #000000;
+    padding: 0px;
+    margin: 0px;
+  }
+ 
+ #gradient
+ {
+   width: 100%;
+   height: 935px
+;
+   padding: 0px;
+   margin: 0px;
+ }
+
+ .example01{
+   position:relative;
+ }
+
+ .example01 li{
+   position:absolute;
+   top:0;
+   left:740px;
+ }
+
+ .example01 .title1{
+   top:50px;
+   left:520px;
+   background-color:white;
+ }
+
+ .example01 .blog1{
+   top:100px;
+   left:20px;
+ }
+
+ ul {
+  list-style: none;
+}
