@@ -24,13 +24,24 @@ body{
  }
 
  .example01 .title1{
-   top:20px;
+   top:300px;
    left:0px;
    background-color:white;
  }
 
  .example01 .blog1{
-   top:50px;
+   top:325px;
+   left:0px;
+ }
+
+.example02 .title1{
+   top:20px;
+   left:0px;
+   background-color:white;
+ }
+
+ .example02.blog1{
+   top:40px;
    left:0px;
  }
 
