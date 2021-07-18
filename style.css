@@ -10,7 +10,7 @@ body{
 }
 
 .title h1 {
-  position: relative;/*絶対配置*/
+  position: absolute;/*絶対配置*/
   top: 0px;
   left: 0px;
   }
@@ -20,7 +20,7 @@ body{
     height: 30px;
     padding: 0px;
     margin: 0px;
-    position: relative;
+    position: absolute;
     top:0px;
 }
  
