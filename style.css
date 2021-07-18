@@ -39,7 +39,7 @@ body{
     padding: 0px;
     margin: 0px;
     position: absolute;
-    top:800px;
+    top:925px;
 }
 
  .example01{
@@ -53,13 +53,13 @@ body{
  }
 
  .example01 .title1{
-   top:855px;
+   top:925px;
    left:0px;
    color:white;
  }
 
  .example01 .blog1{
-   top:880px;
+   top:950px;
    left:0px;
  }
 
