@@ -74,6 +74,18 @@ body{
    left:0px;
  }
 
+.example01 .title3{
+   top:130px;
+   left:0px;
+   color:white;
+ }
+
+ .example01 .blog3{
+   top:155px;
+   left:0px;
+ }
+
+
  ul {
   list-style: none;
 }
