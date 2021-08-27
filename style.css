@@ -30,7 +30,7 @@ body{
     padding: 0px;
     margin: 0px;
     position: absolute;
-    top:130px;
+    top:230px;
 }
 
 #gradient02{
@@ -84,13 +84,13 @@ body{
  }
 
 .example01 .title3{
-   top:130px;
+   top:230px;
    left:0px;
    color:white;
  }
 
  .example01 .blog3{
-   top:155px;
+   top:255px;
    left:0px;
  }
 
