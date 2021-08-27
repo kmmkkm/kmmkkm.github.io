@@ -24,7 +24,7 @@ body{
     top:1350px;
 }
  
-#gradient{
+#gradient05{
     width: 195px;
     height: 16px;
     padding: 0px;
@@ -32,6 +32,14 @@ body{
     position: absolute;
     top:130px;
 }
+
+#gradient{
+    width: 195px;
+    height: 16px;
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top:130px;
 
 #gradient02{
     width: 170px;
@@ -62,35 +70,35 @@ body{
  }
 
  .example01 .title1{
-   top:1350px;
+   top:1450px;
    left:0px;
    color:white;
  }
 
  .example01 .blog1{
-   top:1375px;
+   top:1475px;
    left:0px;
  }
 
 .example01 .title2{
-   top:550px;
+   top:650px;
    left:0px;
    color:white;
  }
 
  .example01 .blog2{
-   top:575px;
+   top:675px;
    left:0px;
  }
 
 .example01 .title3{
-   top:130px;
+   top:230px;
    left:0px;
    color:white;
  }
 
  .example01 .blog3{
-   top:155px;
+   top:255px;
    left:0px;
  }
 
