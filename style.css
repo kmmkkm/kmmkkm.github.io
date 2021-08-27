@@ -48,7 +48,7 @@ body{
     padding: 0px;
     margin: 0px;
     position: absolute;
-    top:1200px;
+    top:130px;
 }
 
  .example01{
@@ -90,6 +90,17 @@ body{
  }
 
  .example01 .blog3{
+   top:155px;
+   left:0px;
+ }
+
+.example01 .title4{
+   top:130px;
+   left:0px;
+   color:white;
+ }
+
+ .example01 .blog4{
    top:155px;
    left:0px;
  }
