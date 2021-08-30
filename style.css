@@ -51,6 +51,15 @@ body{
     top:130px;
 }
 
+#gradient05{
+    width: 225px;
+    height: 16px;
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top:155px;
+}
+
  .example01{
    position:relative;
  }
