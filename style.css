@@ -21,7 +21,7 @@ body{
     padding: 0px;
     margin: 0px;
     position: absolute;
-    top:1200px;
+    top:1800px;
 }
  
 #gradient{
@@ -71,13 +71,13 @@ body{
  }
 
  .example01 .title1{
-   top:1200px;
+   top:1800px;
    left:0px;
    color:white;
  }
 
  .example01 .blog1{
-   top:1225px;
+   top:1825px;
    left:0px;
  }
 
