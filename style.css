@@ -21,7 +21,7 @@ body{
     padding: 0px;
     margin: 0px;
     position: absolute;
-    top:1800px;
+    top:2000px;
 }
  
 #gradient{
@@ -30,7 +30,7 @@ body{
     padding: 0px;
     margin: 0px;
     position: absolute;
-    top:530px;
+    top:730px;
 }
 
 #gradient02{
@@ -39,7 +39,7 @@ body{
     padding: 0px;
     margin: 0px;
     position: absolute;
-    top:970px;
+    top:1070px;
 }
 
 #gradient04{
@@ -48,7 +48,16 @@ body{
     padding: 0px;
     margin: 0px;
     position: absolute;
-    top:130px;
+    top:330px;
+}
+
+#gradient05{
+  width: 225px;
+  height: 16px;
+  padding: 0px;
+  margin: 0px;
+  position: absolute;
+  top:130px;
 }
 
  .example01{
@@ -62,48 +71,59 @@ body{
  }
 
  .example01 .title1{
-   top:1800px;
+   top:2000px;
    left:0px;
    color:white;
  }
 
  .example01 .blog1{
-   top:1825px;
+   top:2025px;
    left:0px;
  }
 
 .example01 .title2{
-   top:970px;
+   top:1170px;
    left:0px;
    color:white;
  }
 
  .example01 .blog2{
-   top:995px;
+   top:1195px;
    left:0px;
  }
 
 .example01 .title3{
-   top:530px;
+   top:730px;
    left:0px;
    color:white;
  }
 
  .example01 .blog3{
-   top:555px;
+   top:755px;
    left:0px;
  }
 
 .example01 .title4{
-   top:130px;
+   top:330px;
    left:0px;
    color:white;
  }
 
  .example01 .blog4{
-   top:155px;
+   top:355px;
    left:0px;
  }
+
+ .example01 .title5{
+  top:130px;
+  left:0px;
+  color:white;
+}
+
+.example01 .blog5{
+  top:155px;
+  left:0px;
+}
 
  
 
